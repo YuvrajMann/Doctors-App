@@ -1,0 +1,115 @@
+.back{
+    align-items: left;
+    margin-top:2%;
+    background-color: white;
+    border: 1px solid white;
+    width:10%;
+}
+.backarrow{
+    background-color: white;
+    width:45%;
+}
+.profile{
+    text-align: left;
+    margin-left: 11%;
+    margin-top: 4%;
+    font-size: 3.0vmax;
+}
+.pic{
+    display: table-column;
+}
+.pic_button{
+    margin: 5%;
+    border-radius: 45px;
+    padding-left:7%;
+    padding-right: 7%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color:darkblue;
+    background-color: lightblue;
+    border: 1.5px solid lightblue;
+    font-size: 1.4vmax;
+    margin-top:10%;
+    margin-left: 34%;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.photo{
+    margin-left: 26%;
+    margin-right:15%;
+    margin-top: 5%;
+    border-radius: 50%;
+    width:45%;
+    height: 45%;
+}
+.forms{
+    display: flex;
+    justify-content: space-between;
+}
+.container-fluid{
+    margin-left: 10%;
+    box-sizing: border-box;
+    padding-left:5%;
+}
+.form-label{
+    font-size: 1.8vmax;
+    color:darkblue;
+    font-weight: 500;
+}
+.form-input{
+     border-radius: 50px;
+    border: 1.5px solid darkblue;
+    width:75%;
+    padding-left:7%;
+    padding-right: 7%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    display: flow-root;
+    color: royalblue;
+    font-size: 1.6vmax;
+}
+.add_label{
+    margin-top: 10%;
+}
+.form-input:focus{
+    outline: none;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+::placeholder{
+    color: darkblue;
+    opacity: .6;
+    padding: 0.5%;
+    font-size: 1.5vmax;
+}
+.button1{
+    margin: 2%;
+    border-radius: 45px;
+    padding-left:7%;
+    padding-right: 7%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color:white;
+    background-color: darkblue;
+    border: 1.5px solid darkblue;
+    font-size: 1.6vmax;
+}
+.button2{
+    margin: 2%;
+    border-radius: 45px;
+    padding-left:7%;
+    padding-right: 7%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color:darkblue;
+    background-color: lightblue;
+    border: 1.5px solid lightblue;
+    font-size: 1.6vmax;
+}
+.logo{
+    width:9%;
+    margin-top: 7%;
+    margin-right:5%;
+    margin-bottom: 2%;
+    float: right;
+}
